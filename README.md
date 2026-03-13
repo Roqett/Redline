@@ -1,2 +1,1 @@
-# roqett-project-template
-Base template for Roqett projects
+![Redline Banner](assets/redline promo image1024px text.png)
